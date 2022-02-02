@@ -1,0 +1,123 @@
+body
+{
+	background-color:black;
+	color:white;
+}
+div.logo
+{
+	text-align:center;
+	font-size:70px;
+	margin-bottom:25px;
+}
+a.logo
+{
+	text-decoration:none;
+	color:white;
+}
+button.login
+{
+	background-color:green;
+}
+button.login:hover
+{
+	background-color:lightgreen;
+}
+a.nav
+{
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+}
+div.link
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:5px;
+}
+#left
+{
+	float:left;
+	width:15%;
+}
+#main
+{
+	float:left;
+	width:70%;
+	text-align:center;
+}
+#right
+{
+	float:left;
+	text-align:center;
+	font-size:25px;
+	width:15%;
+}
+#footer
+{
+	clear:both;
+	text-align:center;
+	font-size:25px;
+}
+#latest
+{
+	font-size:50px;
+}
+a.entry_link
+{
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+	margin-top:5px;
+	margin-bottom:5px;
+	display:block;
+}
+#entries
+{
+	margin-top:25px;
+}
+.about_me
+{
+	font-size:20px;
+	text-align:justify;
+}
+#fb
+{
+	text-decoration:none;
+	color:#4267B2
+}
+#fb:hover
+{
+	color:#3156A1;
+}
+#inst
+{
+	text-decoration:none;
+	color:#C13584;
+}
+#inst:hover
+{
+	color:#B02473;
+}
+#tw
+{
+	text-decoration:none;
+	color:#1DA1F2;
+}
+#tw:hover
+{
+	color:#0C90E1;
+}
+button.logout
+{
+	background-color:red;
+}
+button.logout:hover
+{
+	background-color:purple;
+}
+a.logout
+{
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+}
